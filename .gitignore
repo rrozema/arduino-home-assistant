@@ -1,3 +1,10 @@
 docsrc/xml
 docsrc/build
 .DS_Store
+*.lock
+.vs/arduino-home-assistant/v17/.wsuo
+.vs/arduino-home-assistant/v17/Browse.VC.db
+.vs/VSWorkspaceState.json
+.vs/arduino-home-assistant/FileContentIndex/2e286a85-eb5b-4e4c-9b6d-2580d706e27a.vsidx
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
